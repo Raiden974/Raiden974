@@ -2,7 +2,7 @@
 # en cours de formation developpeur web et web mobile
 =====================================================
 ## pour une proposition de stage je suis disponible ! "mikepayet97430@gmail.com" "06-34-41-11-59".😉
-
+![travail](Utilisateur\Pictures\wallpaper)
 
 <!--
 **Raiden974/Raiden974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
